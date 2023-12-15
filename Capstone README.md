@@ -65,6 +65,9 @@ Step 8 - Presenting results: Finally a 10 minute presentation will be created, d
 
 The Ridge Regression Model was chosen as it had slightly better accuracy than the other two models and was able to better handle the high multicollinearity that was in the dataset.
 ## User Input
+
+Example of user input produced, highlighting players who's market value difference is greatest comparing predicted market value to actual market value
+![Alt text](https://github.com/mattyh1010/Capstone-football-player-market-value-analysis-and-prediction/blob/main/Player%20Recommender.png)
 ## Conclusions
 
 Data can be used in the football player transfer markets to gain insight into which players may represent the best value for money based on their market value. With the right data to draw upon this tool could be extremely useful for clubs who do not have the same financial power as the 'bigger' clubs.
